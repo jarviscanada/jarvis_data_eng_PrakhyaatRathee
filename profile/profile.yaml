@@ -4,38 +4,24 @@ name: "Prakhyaat Rathee"
 github_repo_root_url: https://github.com/jarviscanada/jarvis_data_eng_PrakhyaatRathee
 
 # Introduce yourself (80-120 words)
-# Suggestions: you should 
-# 1) describe your academic and work experience (please focus on transferable/job related tech and soft skills only)
-# 2) explain your passion for the role you are looking for (e.g. developer, BSA, QA, tech support, etc.)
-# 3) mention what kind of role you are looking for
-# 4) briefly talk about your qualifications (soft and tech) to justify why the hiring manager should hire your 
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed venenatis a orci ac malesuada. Vivamus ligula elit, viverra eu ante porttitor, blandit convallis augue. Aliquam justo justo, mollis at lacus eu, rutrum finibus est. Vestibulum venenatis purus id accumsan pretium. In efficitur magna nec enim laoreet tincidunt. Ut libero metus, scelerisque nec eros vitae, sagittis pellentesque enim. Donec dictum felis volutpat, vehicula magna eu, imperdiet elit. Phasellus ut velit a massa efficitur faucibus. Sed volutpat, lacus sed sagittis luctus, elit.
+# 
+Prakhyaat is an IIBA certified business analyst with expertise in requirement elicitations, developing of iteration documents, managing workflows using kanban and most important he is an expert when it comes to dealing with clients and top level business executives. He completed his Masters in Information Systems on scholarship from Monash University, Australia. 
+
+As Prakhyaat finds his passion in solving problems creatively and innovatively, his professional expereince indicates he will be a perfect contributor to the team where dynamicity is welcomed. His past management consulting and marketing background give him a solid understand on how a business is run and his tech qualification allows him to fully understand how tech can help in optimising business operations to meet business objectives. Prakhyaat's background both personal and professional propel him to pursue roles as a System Business analyst or an ICT business analyst where he can use his Tech knoweldge to solve business / tech problems. 
+
 
 skills:
   # Please include 
-  #     1)soft skills (e.g. elicitation, communicaiton, collaberation, interpersonal, etc ) 
-  #     2) business tools (such as Excel, Viso, etc.)
-  Business Skills:
-    - Donec
-    - Donec
-    - Donec
-    - fermentum
-    - Donec
-  # Please add more data related skills, such as Python, Tableau, R, Matlab, AI, ML, Statistics, etc.
-  # You can also add some programming skills, such as programming languages, GIT, Linux, Cloud Platform, tools, etc.
-  Technical Skills:
-    - RDBMS/SQL
-    - Data Modeling/Mapping
-    - Data Analytics
+  1)soft skills (e.g.requirement elicitation, communicaiton, collaberation, interpersonal) 
+  2)business tools (such as Excel, Power BI, Trello, Oracle SQL, Understanding of Shell Scripting, Java, Python for data analysts, Dockers and Git)
+  3) Technical skills (Creating prototypes, ITIL, ER diagrams, UML diagrams, PMBOK, Agile Methodology, SDLC )
 
-# List of Jarvis projects
-# Please describe your resume from a BSA perspective (e.g. requirement elicitation, scope, stakeholder, coordination, diagrams)
 jarvis_projects:
   - name: "Linux Cluster Resource Monitoring App"
     git_url: "/linux_sql"
     # Focus on BSA work instead of development work
-    # Include the following keywords: BRD, SRD, Elicitation, stakeholder, reqruiement, analysis, RDBMS, SQL, data modeling, SLA
-    description: Suspendisse a tincidunt odio. Suspendisse posuere luctus aliquet. Quisque magna tellus, tempor vitae arcu sed, volutpat scelerisque lacus. Aliquam varius pulvinar dapibus. Ut a tincidunt sem. Aenean sollicitudin fringilla erat ut imperdiet. Phasellus fermentum, enim vitae laoreet elementum, eros nisl hendrerit lorem.
+    # Include the following keywords: 
+    
   - name: "Python Data Analytics"
     git_url: "/python_data_anlytics"
     # Focus on BSA work instead of development work
