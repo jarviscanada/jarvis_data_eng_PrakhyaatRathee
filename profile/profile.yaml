@@ -1,0 +1,122 @@
+# Preferred name (Characters only)
+name: "Prakhyaat Rathee"
+# Your GitHub repo root URL
+github_repo_root_url: https://github.com/jarviscanada/jarvis_data_eng_PrakhyaatRathee
+
+# Introduce yourself (80-120 words)
+# Suggestions: you should 
+# 1) describe your academic and work experience (please focus on transferable/job related tech and soft skills only)
+# 2) explain your passion for the role you are looking for (e.g. developer, BSA, QA, tech support, etc.)
+# 3) mention what kind of role you are looking for
+# 4) briefly talk about your qualifications (soft and tech) to justify why the hiring manager should hire your 
+summary: Prakhyaat is an IIBA certified Prakhyaat is an IIBA certified professional with experience in project management, business analysis,team Handling and key stakeholder management. He has rich work experience and strong international academic background. Prakhyaat is well travelled and have lived in some of the world's major cities earning him great exposure. As Prakhyaat aims to have a career where he can meet new people, team members, great business leaders and also be innovative, he recognises power of information technology in bringing all these things together. Therefore a role where dynamicity is welcomed, innovation is chased and passion for learning and growth is respected, Prakhyaat will be a perfect fit.
+
+skills:
+  # Please include 
+  #     1)soft skills (e.g. elicitation, communicaiton, collaberation, interpersonal, etc ) 
+  #     2) business tools (such as Excel, Viso, etc.)
+  Business Skills:
+    - Understanding of Capital Markets, Payment Gateways, banking processes 
+    - Procurement,sales and marketing, understanding of the business processes
+    - Agile methodology, Knowledge of PMBOK, Certified BABAK professional
+    - SDLC- Agile and waterfall, conducting scrum meetings, handling kanban board
+    - Requirements gathering, verifying and validating of the requirements, project management
+    - Effective communication style- both oral and written
+    - Excellent leadership and team membership skills
+  # Please add more data related skills, such as Python, Tableau, R, Matlab, AI, ML, Statistics, etc.
+  # You can also add some programming skills, such as programming languages, GIT, Linux, Cloud Platform, tools, etc.
+  Technical Skills:
+    - RDBMS/SQL
+    - Data Modeling/Mapping
+    - Understanding of programming languages for class diagrams- such as Java
+    - Microsoft Excel, word, access, dynamics & powerpoint 
+    - Understanding of google cloud platforms, linux machines, and bash scripting
+    - Constructing of system schema diagrams, activity diagrams, data flow diagrams
+    - Developing use case scenarios, writing personas and documenting of technical requirements
+   
+
+# List of Jarvis projects
+# Please describe your resume from a BSA perspective (e.g. requirement elicitation, scope, stakeholder, coordination, diagrams)
+jarvis_projects:
+  - name: "Linux Monitoring Agent"
+    git_url: "/linux_sql"
+    description: Documented elicited technical requirements and developed scope and incorporated changes in a highly agile environment, created project charter, data flow diagrams and system sequence diagrams, monitored the development of the database from the scratch to collect real time information pertinent to the CPU usage to assist Jarvis admin team.
+  - name: "Proof of concept"
+    git_url: "Not updated"
+    # Focus on BSA work instead of development work
+    # e.g. solve business problem, requirement, data sources, analytics, stakeholders, documentation
+    description: Developed project document, gathered System requirements and documented the same, conducted brain storming activities, interviewed stakeholders and managed resources for the development of mobile app proof of concept for Jarvis client.
+ # - name: "Hadoop"
+ #  git_url: "/hadoop"
+ # description: ""
+
+# List of personal or academic projects
+# Please focus on transferable skills, such as soft skills and data related skills
+highlighted_projects:
+    #project name
+  - name: "Kill Ship"
+    #URL is optional
+    git_url: "https://github.com/jarviscanada/jarvis_profile_builder"
+# The project description must start with an action verb (https://bit.ly/3guO98u)
+    description: Developed a game using java Blue J terminal to locate user ship and destroy it to win points. Key skills developed- Problem solving, understanding of classes and objects through object oriented programming, used concept of modularisation and ensured code quality is great by maintaining cohesiveness to highest degree at class and method level.
+  - name: "Fit Bit Tracker"
+    git_url:
+    description: Developed technical document for a household client who won a lottery and wanted to launch an app fit bit tracker. Handled documentation of non technical requirements and translated them into technical specifications for the team of developers at Monash. Key skills Organisaing meetings and time management.
+
+# List of professional experience
+# Please focus on transferable skills, such as soft skills and data related skills
+professional_experience:
+  #Write your Jarvis role as a professional experience rather than training.
+  - title: "Business Analyst/Project Coordinator"
+    company: "Jarvis"
+    duration: "2022-present"
+    # The project description must start with an action verb (https://bit.ly/3guO98u)
+    # Avoid the following terms: training, learning, etc. Instead, you should focus on the work, such as worked on XYY; Wrote ABC document; Analyzed QWE project;
+    description: "Developed scope and technical document for Jarvis projects, organised team meetings and delegated task by develping RACI matrix."
+  - title: "Project Manager- Work Integrated learning"
+    company: "Australian Computer Society"
+    duration: "2020-2021"
+    description: "Led the development of a chat boat for a real estate company who wanted to mange their incoming leads more effectively. Demonstarted solid leadership qualities to meet deadlines and earned a personlised letter of recommendation from the chief at ACS."
+
+#List of edcuation
+education: 
+  - school_name: "Monash university"
+    duration: "2017-2019"
+    degree: "Masters of Business Information Systems"
+    department: "Information technology"
+    # optional
+    awards_achievements: 
+      - "International Scholarship"
+      - "Vice President - Monash Debate club"
+      - "Mentor peer group"
+  - school_name: "IP university"
+    duration: "2009-2012"
+    degree: "Bachelor of Business Administration"
+    department: "Banking and Insurance"
+    awards_achievements: 
+     - "University topper"
+     - "Placement coordinator"
+     - "Student magazine editor"
+
+#Optional section
+others:
+    #category
+  - title: "International Institue of Business Analysis- Certified professional Entry level "
+    #ender/Generate different file formats
+    ##Make sure you run this command prior to every profile pull request
+    #bash profile_app.sh
+    #
+    ##This tool will generate the following files
+    #../README.md #overwrite your existing README
+    #profile.json #this file will be consumed by Jarvis Consultant App
+    #jarvis_profile_John_Smith.pdf #PDF version of ../README.md
+    bullets:
+      - "BABOK proficient"
+ # - title: "Awards"
+ #   bullets:
+      - "Winner"
+  - title: "Activities/Hobbies"
+    bullets:
+     - "Yoga instructor"
+     -  "Reading - self help books"
+     
