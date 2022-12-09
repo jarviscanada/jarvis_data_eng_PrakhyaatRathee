@@ -2,72 +2,65 @@
   "education": [
     {
       "awards_achievements": [
-        "Scholarship",
-        "Dean's List (2015, 2016): Ut enim ad minim veniam",
-        "GPA: 3.8/4.0"
+        "International Scholarship",
+        "Vice President - Monash Debate club",
+        "Mentor peer group"
       ],
-      "degree": "Bachelor of Applied Sciences",
-      "department": "Electrical and Computer Engineering",
-      "duration": "2012-2016",
-      "school_name": "XYZ university"
+      "degree": "Masters of Business Information Systems",
+      "department": "Information technology",
+      "duration": "2017-2019",
+      "school_name": "Monash university"
     },
     {
-      "awards_achievements": null,
-      "degree": "Master of Engineering",
-      "department": "Electrical and Computer Engineering",
-      "duration": "2016-2018",
-      "school_name": "XYZ university"
+      "awards_achievements": [
+        "University topper",
+        "Placement coordinator",
+        "Student magazine editor"
+      ],
+      "degree": "Bachelor of Business Administration",
+      "department": "Banking and Insurance",
+      "duration": "2009-2012",
+      "school_name": "IP university"
     }
   ],
-  "github_repo_root_url": "https://github.com/jarviscanada/jarvis_data_eng_demo",
+  "github_repo_root_url": "https://github.com/jarviscanada/jarvis_data_eng_PrakhyaatRathee",
   "highlighted_projects": [
     {
-      "description": "Suspendisse a tincidunt odio. Suspendisse posuere luctus aliquet. Quisque magna tellus, tempor vitae arcu sed, volutpat scelerisque lacus. Aliquam varius pulvinar dapibus. Ut a tincidunt sem. Aenean sollicitudin fringilla erat ut imperdiet. Phasellus fermentum, enim vitae laoreet elementum, eros nisl hendrerit lorem.",
+      "description": "Developed a game using java Blue J terminal to locate user ship and destroy it to win points. Key skills developed- Problem solving, understanding of classes and objects through object oriented programming, used concept of modularisation and ensured code quality is great by maintaining cohesiveness to highest degree at class and method level.",
       "git_url": "https://github.com/jarviscanada/jarvis_profile_builder",
-      "name": "Web app for resturant"
+      "name": "Kill Ship"
     },
     {
-      "description": "Suspendisse a tincidunt odio. Suspendisse posuere luctus aliquet. Quisque magna tellus, tempor vitae arcu sed, volutpat scelerisque lacus. Aliquam varius pulvinar dapibus. Ut a tincidunt sem. Aenean sollicitudin fringilla erat ut imperdiet. Phasellus fermentum, enim vitae laoreet elementum, eros nisl hendrerit lorem.",
+      "description": "Developed technical document for a household client who won a lottery and wanted to launch an app fit bit tracker. Handled documentation of non technical requirements and translated them into technical specifications for the team of developers at Monash. Key skills Organisaing meetings and time management.",
       "git_url": null,
-      "name": "Machine Learning"
+      "name": "Fit Bit Tracker"
     }
   ],
   "jarvis_projects": [
     {
-      "description": "Suspendisse a tincidunt odio. Suspendisse posuere luctus aliquet. Quisque magna tellus, tempor vitae arcu sed, volutpat scelerisque lacus. Aliquam varius pulvinar dapibus. Ut a tincidunt sem. Aenean sollicitudin fringilla erat ut imperdiet. Phasellus fermentum, enim vitae laoreet elementum, eros nisl hendrerit lorem.",
+      "description": "Documented elicited technical requirements and developed scope and incorporated changes in a highly agile environment, created project charter, data flow diagrams and system sequence diagrams, monitored the development of the database from the scratch to collect real time information pertinent to the CPU usage to assist Jarvis admin team.",
       "git_url": "/linux_sql",
-      "name": "Linux Cluster Resource Monitoring App"
+      "name": "Linux Monitoring Agent"
     },
     {
-      "description": "",
-      "git_url": "/python_data_anlytics",
-      "name": "Python Data Analytics"
-    },
-    {
-      "description": "",
-      "git_url": "/hadoop",
-      "name": "Hadoop"
+      "description": "Developed project document, gathered System requirements and documented the same, conducted brain storming activities, interviewed stakeholders and managed resources for the development of mobile app proof of concept for Jarvis client.",
+      "git_url": "Not updated",
+      "name": "Proof of concept"
     }
   ],
   "name": "Prakhyaat Rathee",
   "others": [
     {
       "bullets": [
-        "Udacity Machine Learning (2019)"
-      ],
-      "title": "Certificates"
-    },
-    {
-      "bullets": [
+        "BABOK proficient",
         "Winner"
       ],
-      "title": "Awards"
+      "title": "International Institue of Business Analysis- Certified professional Entry level "
     },
     {
       "bullets": [
-        "Basketball player; joined xyz club",
-        "Competitive gaming; compete for xyz",
-        "Volunteer, ABC Food bank: Ut enim ad minim veniam"
+        "Yoga instructor",
+        "Reading - self help books"
       ],
       "title": "Activities/Hobbies"
     }
@@ -75,30 +68,36 @@
   "professional_experience": [
     {
       "company": "Jarvis",
-      "description": "Donec mattis sed justo et sagittis. Vestibulum lacinia nulla ipsum. Curabitur imperdiet nibh vitae leo lacinia laoreet. Nullam accumsan, lectus ut maximus ultricies, augue justo egestas mi, vel bibendum felis.",
-      "duration": "2020-present",
-      "title": "Software Developer"
+      "description": "Developed scope and technical document for Jarvis projects, organised team meetings and delegated task by develping RACI matrix.",
+      "duration": "2022-present",
+      "title": "Business Analyst/Project Coordinator"
     },
     {
-      "company": "XYZ Company",
-      "description": "Donec mattis sed justo et sagittis. Vestibulum lacinia nulla ipsum. Curabitur imperdiet nibh vitae leo lacinia laoreet. Nullam accumsan, lectus ut maximus ultricies, augue justo egestas mi, vel bibendum felis.",
-      "duration": "2019",
-      "title": "Tutor"
+      "company": "Australian Computer Society",
+      "description": "Led the development of a chat boat for a real estate company who wanted to mange their incoming leads more effectively. Demonstarted solid leadership qualities to meet deadlines and earned a personlised letter of recommendation from the chief at ACS.",
+      "duration": "2020-2021",
+      "title": "Project Manager- Work Integrated learning"
     }
   ],
   "skills": {
     "Business Skills": [
-      "Donec",
-      "Donec",
-      "Donec",
-      "fermentum",
-      "Donec"
+      "Understanding of Capital Markets, Payment Gateways, banking processes",
+      "Procurement,sales and marketing, understanding of the business processes",
+      "Agile methodology, Knowledge of PMBOK, Certified BABAK professional",
+      "SDLC- Agile and waterfall, conducting scrum meetings, handling kanban board",
+      "Requirements gathering, verifying and validating of the requirements, project management",
+      "Effective communication style- both oral and written",
+      "Excellent leadership and team membership skills"
     ],
     "Technical Skills": [
       "RDBMS/SQL",
       "Data Modeling/Mapping",
-      "Data Analytics"
+      "Understanding of programming languages for class diagrams- such as Java",
+      "Microsoft Excel, word, access, dynamics \u0026 powerpoint",
+      "Understanding of google cloud platforms, linux machines, and bash scripting",
+      "Constructing of system schema diagrams, activity diagrams, data flow diagrams",
+      "Developing use case scenarios, writing personas and documenting of technical requirements"
     ]
   },
-  "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed venenatis a orci ac malesuada. Vivamus ligula elit, viverra eu ante porttitor, blandit convallis augue. Aliquam justo justo, mollis at lacus eu, rutrum finibus est. Vestibulum venenatis purus id accumsan pretium. In efficitur magna nec enim laoreet tincidunt. Ut libero metus, scelerisque nec eros vitae, sagittis pellentesque enim. Donec dictum felis volutpat, vehicula magna eu, imperdiet elit. Phasellus ut velit a massa efficitur faucibus. Sed volutpat, lacus sed sagittis luctus, elit."
+  "summary": "Prakhyaat is an IIBA certified Prakhyaat is an IIBA certified professional with experience in project management, business analysis,team Handling and key stakeholder management. He has rich work experience and strong international academic background. Prakhyaat is well travelled and have lived in some of the world's major cities earning him great exposure. As Prakhyaat aims to have a career where he can meet new people, team members, great business leaders and also be innovative, he recognises power of information technology in bringing all these things together. Therefore a role where dynamicity is welcomed, innovation is chased and passion for learning and growth is respected, Prakhyaat will be a perfect fit."
 }
