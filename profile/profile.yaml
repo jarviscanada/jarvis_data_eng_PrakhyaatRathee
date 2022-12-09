@@ -101,7 +101,7 @@ education:
 #Optional section
 others:
     #category
-  - title: "International Institue of Business Analysis- Certified professional Entry level "
+  - title: "International Institute of Business Analysis- Certified professional Entry level "
     #ender/Generate different file formats
     ##Make sure you run this command prior to every profile pull request
     #bash profile_app.sh
@@ -114,7 +114,7 @@ others:
       - "BABOK proficient"
  # - title: "Awards"
  #   bullets:
-      - "Winner"
+    
   - title: "Activities/Hobbies"
     bullets:
      - "Yoga instructor"
