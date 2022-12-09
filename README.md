@@ -45,6 +45,5 @@ Project source code: [https://github.com/jarviscanada/jarvis_data_eng_PrakhyaatR
 
 ## Miscellaneous
 - BABOK proficient
-- Winner
 - Yoga instructor
 - Reading - self help books
