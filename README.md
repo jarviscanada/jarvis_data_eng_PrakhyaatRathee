@@ -50,6 +50,6 @@ Project source code: [https://github.com/jarviscanada/jarvis_data_eng_PrakhyaatR
 
 
 ## Miscellaneous
-- Entry Level - certification in Business Analysis- BABOK
+- International Institute of Business Analysis-  entry level certification in Business Analysis     BABOK
 - Freelance-Yoga instructor
 - Reading - self help books
