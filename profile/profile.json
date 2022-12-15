@@ -38,12 +38,12 @@
   ],
   "jarvis_projects": [
     {
-      "description": "Developed a linux cluster monitoring agent to assist Jarvis linux admin team manage their resources effectively. Elicited technical requirements and developed scope and incorporated changes in a highly agile environment, created project charter, data flow diagrams and system sequence diagrams and monitored the development of the databases from the scratch to collect real time information pertinent to the CPU usage to assist the team.",
+      "description": "Developed a Linux cluster monitoring agent to assist Jarvis Linux admin team manage their resources effectively. Elicited technical requirements and developed scope and incorporated changes in a highly agile environment, created project charter, data flow diagrams and system sequence diagrams and monitored the development of the databases from the scratch to collect real time information pertinent to the CPU usage to assist the team.",
       "git_url": "",
       "name": "Linux Monitoring Agent"
     },
     {
-      "description": "Developed a requirement specification document for a Jarvis client who is in need of a mobile application for stock brokers. Developed project document, gathered system requirements and created system specification document, also conducted brainstorming activities, interviewed stakeholders and managed resources for the development of mobile app proof of concept as requested.",
+      "description": "Developed a requirement specification document for a Jarvis client who is in need of a mobile application for stock brokers. Developed project document, gathered system requirements, and created system specification document, also conducted brainstorming activities, interviewed stakeholders and managed resources for the development of mobile app proof of concept as requested.",
       "git_url": "",
       "name": "Proof of concept-Stock and trading"
     }
@@ -67,13 +67,13 @@
   "professional_experience": [
     {
       "company": "Jarvis",
-      "description": "Conducted system analysis and implemented a linux cluster program for linux administrators at Jarvis, adhered to the requirements of software development life cycle in a highly agile environment, defined and documented scope of projects for distribution within teams, planned computer systems using information engineering and structured analysis, key technologies used-docker, google cloud platform to provision Jarvis Remote Desktop, postgres SQL, shell scripting and IDE. Achievements: Successfully completed the project and was assigned the next data driven project.",
+      "description": "Conducted system analysis and implemented a Linux cluster program for Linux administrators at Jarvis, adhered to the requirements of software development life cycle in a highly agile environment, defined and documented scope of projects for distribution within teams, planned computer systems using information engineering and structured analysis, key technologies used-docker, google cloud platform to provision Jarvis Remote Desktop, postgres SQL, shell scripting and IDE. Achievements: Successfully completed the project and was assigned the next data driven project.",
       "duration": " 09/2022-present",
       "title": "Business Analyst/Project Coordinator"
     },
     {
       "company": "APM, Australia",
-      "description": "Independently handled a portfolio of 84 and more clients dealing with mental issues ranging from clinical anxiety to Schizophrenia, mentored job seekers and provided them support to develop their employability skills,recognised client employment barriers ad devised strategies to resolve those barriers by councelling and coaching, used excellent negotitation and relationship building skills to meet the program requirements set by the department and their medical practitioner. Achievements: successfully overachieved my monthly KPIs each month and earned subsequent bonus.",
+      "description": "Independently handled a portfolio of 84 and more clients dealing with mental issues ranging from clinical anxiety to Schizophrenia, mentored job seekers and provided them support to develop their employability skills, recognised client employment barriers ad devised strategies to resolve those barriers by counselling and coaching, used excellent negotiation and relationship building skills to meet the program requirements set by the department and their medical practitioner. Achievements: successfully overachieved my monthly KPIs each month and earned subsequent bonus.",
       "duration": "11/2021-05/2022",
       "title": "Disability Employment Consultant "
     },
@@ -91,7 +91,7 @@
     },
     {
       "company": "Monash University",
-      "description": "Developed a website for tourists to help them if they get stuck in the middle of the bush fire. Planned the project approach for requirement gathering, conducted  brain storming sessions, and created and verified a 500 pages iteration document, developed user stories, story mapping, created use case diagrams and conceptual database schema in order to facilitate the full development of the system in an agile environment, used Kanban to facilitate inter team discussions and managed work flows ensured functional and non functional testing are satisfactorily completed. Achievements-Industry student cash ward for the completed project.",
+      "description": "Developed a website for tourists to help them if they get stuck in the middle of the bush fire. Planned the project approach for requirement gathering, conducted  brain storming sessions, and created and developed iteration document, also developed user stories, story mapping, created use case diagrams and conceptual database schema in order to facilitate the full development of the system in an agile environment, used Kanban to facilitate inter team discussions and managed work flows ensured functional and non functional testing are satisfactorily completed. Achievements-Industry student cash ward for the completed project.",
       "duration": "01/2019 - 07/2019",
       "title": "ICT Business Analyst -professional Training"
     }
@@ -99,7 +99,7 @@
   "skills": {
     "Business Skills": [
       "understanding of capital markets, payment gateways and general banking processes",
-      "experience in procurement,managing sales pipeline and developing marketing strategies",
+      "experience in procurement, managing sales pipeline and developing marketing strategies",
       "experience working in an agile environment",
       "good understanding of software development life cycles, agile and waterfall approaches to software development",
       "experience in eliciting technical requirements for documentation purposes",
@@ -110,12 +110,12 @@
       "RDBMS/SQL",
       "Data modelling/mapping/UML diagrams/design schemas",
       "experience in creating object oriented design patterns",
-      "experienced in using microsoft excel, word, access, dynamics \u0026 powerpoint",
+      "experienced in using Microsoft excel, word, access, dynamics \u0026 power point",
       "understanding of google cloud platforms, linux machines, and bash scripting",
       "experience in creating system schema diagrams, activity diagrams, and data flow diagrams",
       "experience in developing user stories and user personas.",
-      "experience in using visualisation tools such as Power BI and visio."
+      "experience in using visualisation tools such as Power BI and Visio."
     ]
   },
-  "summary": "Prakhyaat is a creative operation specialist skilled in designing and handling management information systems. He has experience in analysing, articulating and solving various business problems using technological solutions. He is an organised professional comfortable working independently or as a part of a team."
+  "summary": "Prakhyaat is a creative operation specialist skilled in designing and handling management information systems. He has experience in analysing, articulating, and solving various business problems using technological solutions. He is an organised professional comfortable working independently or as a part of a team."
 }
